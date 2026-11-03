@@ -53,7 +53,6 @@
         <efx:design_file name="rtl/dvi_tx/tx_aux.v_encrypted.v" version="default" library="default" />
         <efx:design_file name="rtl/dvi_tx/dvi_encoder.v_encrypted.v" version="default" library="default" />
         <efx:design_file name="rtl/gamma_conrrection/gamma_correction.v" version="default" library="default" />
-        <efx:design_file name="debug_top.v" version="default" library="default" />
         <efx:design_file name="rtl/debayer/rgb_gain_v1.v" version="default" library="default" />
         <efx:design_file name="rtl/csi_rx_controller.sv" version="default" library="default" />
         <efx:design_file name="rtl/frame_buffer_V4/bank_switch.v" version="default" library="default" />
